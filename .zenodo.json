@@ -1,0 +1,24 @@
+{
+  "title": "Hardy-Weinberg Drift Simulator",
+  "upload_type": "software",
+  "description": "Hardy-Weinberg equilibrium drift simulator using N/U Algebra for conservative uncertainty propagation in population genetics. Tracks allele frequency drift under selection and genetic drift with rigorous uncertainty bounds.",
+  "creators": [
+    {
+      "name": "Eric D. Martin",
+      "affiliation": "All Your Baseline LLC",
+      "orcid": "0009-0006-5944-1742"
+    }
+  ],
+  "keywords": [
+    "Hardy-Weinberg",
+    "population genetics",
+    "genetic drift",
+    "allele frequency",
+    "N/U algebra",
+    "uncertainty quantification",
+    "evolutionary biology",
+    "simulation"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
